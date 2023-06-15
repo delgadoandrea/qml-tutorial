@@ -5,3 +5,4 @@ To follow these Notebooks you will need:
 - PennyLane
 - Matplotlib
 - ScikitLearn
+- Pandas
